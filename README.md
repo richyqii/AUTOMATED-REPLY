@@ -10,13 +10,13 @@ The runtime sends HTTPS requests to `https://graph.facebook.com/{version}/{phone
 
 ## Future public YouTube link
 
-[Ask VIN about E-Invoice training on WhatsApp](https://wa.me/60124182788?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20E-Invoice%20training.)
+[Ask VIN about E-Invoice training on WhatsApp](https://wa.me/60124182788?text=Hi%2C%20I%27m%20interested%20in%20E-Invoice%20Training.)
 
 ```text
-https://wa.me/60124182788?text=Hi%2C%20I%20want%20to%20know%20more%20about%20your%20E-Invoice%20training.
+https://wa.me/60124182788?text=Hi%2C%20I%27m%20interested%20in%20E-Invoice%20Training.
 ```
 
-The message is `Hi, I want to know more about your E-Invoice training.` The customer can edit it and **must manually press Send**. Opening this link does not trigger a webhook or a reply. **Do not publish this as an automated-sales link until a separately approved production connection is working.** The current Meta virtual-number test uses a different destination.
+The message is `Hi, I'm interested in E-Invoice Training.` The customer can edit it and **must manually press Send**. Opening this link does not trigger a webhook or a reply. **Do not publish this as an automated-sales link until a separately approved production connection is working.** The current Meta virtual-number test uses a different destination.
 
 ## What is ready and what needs your account
 

@@ -88,7 +88,7 @@ The subscription command first checks that the WABA contains the configured Phon
 On **Step 1: Try it out**, add your own personal WhatsApp number as an allowed test recipient and complete its verification. Send Meta's sample message from the virtual number to that recipient if needed to open a chat. From that personal WhatsApp account, **reply to the virtual number** with:
 
 ```text
-Hi, I want to know more about your E-Invoice training.
+Hi, I'm interested in E-Invoice Training.
 ```
 
 The real incoming message must appear in the server's SQLite queue, and the virtual number must send the full Gumroad purchase reply through Meta's Cloud API. Inspect local outcomes:

@@ -3,7 +3,7 @@ import unicodedata
 from urllib.parse import quote
 
 BUSINESS_NUMBER = "60124182788"
-PREFILLED_MESSAGE = "Hi, I want to know more about your E-Invoice training."
+PREFILLED_MESSAGE = "Hi, I'm interested in E-Invoice Training."
 WHATSAPP_LINK = f"https://wa.me/{BUSINESS_NUMBER}?text={quote(PREFILLED_MESSAGE, safe='')}"
 GUMROAD_URL = "https://einvoicemy.gumroad.com/l/e-invoice-training-2026"
 
